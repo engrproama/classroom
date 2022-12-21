@@ -4,9 +4,9 @@
 - This Repo is designed to teach, learn and help me become better me.
 # 
 # EXPECTED OF YOU.
-  -> FORK the Repo (its free).
-  -> Clone the Repo (you aint gonna be arrested).
-  -> Create a branch of your own and make your commits (thats how we learn).
- - it will be wise if you can simply not copy and paste but try it out, even though you fail, its fine because failure defines our next move.
+- FORK the Repo (its free).
+- Create a branch from the forked repo on yur github
+- Add your changes on your banch then commit, then push
+- Your code will be reviewed and accessed then approved.
  # 
  # LETS MAKE WORLD SPIN AROUND US.
