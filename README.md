@@ -7,6 +7,7 @@
 - FORK the Repo (its free).
 - Create a branch from the forked repo on yur github
 - Add your changes on your banch then commit, then push
-- Your code will be reviewed and accessed then approved.
+- Your code will be reviewed and approved.
  # 
  # LETS MAKE WORLD SPIN AROUND US.
+- Every momemnt you code, to take the closer to its new location.
