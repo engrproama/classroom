@@ -4,9 +4,10 @@
 - This Repo is designed to teach, learn and help me become better me.
 # 
 # EXPECTED OF YOU.
-- FORK the Repo (its free).
-- Create a branch from the forked repo on yur github
+- CLONE THE REPO (its free).
+- SWITCH TO THE BRANCH 'Ideas'
 - Add your changes on your banch then commit, then push
 - Your code will be reviewed and accessed then approved.
  # 
  # LETS MAKE WORLD SPIN AROUND US.
+- Coding makes you a small god
